@@ -3,9 +3,8 @@
 我是桑桑 你也可以叫我 Libra<br>
 目前是杭州开始链接有限公司的行政同学<br>
 这家公司在做一个叫 Bonjour! 的产品<br>
-你可以在这里 [![Bonjour!](https://gitcards.bonjour.bio/libra/badge.svg)](https://bonjour.bio/libra) 找到我的数字名片
-
-我更偏好 Email 和 Telegram<br>
+你可以在这里 [![Bonjour!](https://gitcards.bonjour.bio/libra/badge.svg)](https://bonjour.bio/libra) 找到我的数字名片<br>
+我更偏好 [Email](mailto:me@libra.wiki) 和 [Telegram](https://t.me/Octl1bra)<br>
 也许用这两种通讯方式能更高效的联系到我
 
 [![Libra](https://gitcards.bonjour.bio/libra.svg)](https://bonjour.bio/libra)
