@@ -1,5 +1,4 @@
 ## Hi there 👋 [![Bonjour!](https://gitcards.bonjour.bio/libra/badge.svg)](https://bonjour.bio/libra)
-[![Libra](https://gitcards.bonjour.bio/libra.svg)](https://bonjour.bio/libra)
 
 我是桑桑 你也可以叫我 Libra<br>
 目前是杭州开始链接有限公司的行政同学<br>
@@ -8,3 +7,5 @@
 
 我更偏好 Email 和 Telegram<br>
 也许用这两种通讯方式能更高效的联系到我
+
+[![Libra](https://gitcards.bonjour.bio/libra.svg)](https://bonjour.bio/libra)
